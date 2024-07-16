@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-https://github.com/calliegao/calliegao.github.io/blob/master/_pages/about.md
 I am now a PhD candidate studying in Harbin Institute of Technology (Shenzhen). My research interests are in neuroiamge analysis, geometric-based morphometrics and computational neuroanatomy. My current research focuses on the hippocampus, the cognitive center of the human brain. My doctoral project is dedicated to establishing the connection between histology and clinical imaging, aiming to identify early biomarkers of Alzheimer's disease in the local structure of the hippocampus from large-scale clinical imaging. 
 
 Research —— A multi-scale morphological measurement model based on discrete medial axis geometry: Addressing the issue of measuring the thickness of the hippocampal layered folding structure in imaging.
