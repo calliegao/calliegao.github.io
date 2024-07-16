@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+https://github.com/calliegao/calliegao.github.io/blob/master/_pages/about.md
 I am now a PhD candidate studying in Harbin Institute of Technology (Shenzhen). My research interests are in neuroiamge analysis, geometric-based morphometrics and computational neuroanatomy. My current research focuses on the hippocampus, the cognitive center of the human brain. My doctoral project is dedicated to establishing the connection between histology and clinical imaging, aiming to identify early biomarkers of Alzheimer's disease in the local structure of the hippocampus from large-scale clinical imaging. 
 
 Research —— A multi-scale morphological measurement model based on discrete medial axis geometry: Addressing the issue of measuring the thickness of the hippocampal layered folding structure in imaging.
@@ -19,7 +19,7 @@ Research —— The cross-individual Axis-Referenced Morphometric Model (ARMM): 
 ------
 Individual differences in the hippocampus are evident in the curvature of the anteroposterior axis, the proportion of the anterior and posterior regions, and the varying number of digitations in the head. Current research seldom addresses these differences, often relying on general image registration and global surface reparameterization methods. These methods fail to establish anatomically meaningful correspondences in regions with significant individual variability. An effective solution is to create a unified coordinate system based on the intrinsic invariance of hippocampal geometry and anatomy. This study uses the longitudinal lamellar organization inherent in hippocampal anatomy to construct an axis-referenced coordinate system.
 
-[MRI-based Axis-Referenced Morphometric Model corresponding to lamellar organization for assessing hippocampal atrophy in dementia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10502645/pdf/HBM-44-5180.pdf)
+[MRI-based Axis-Referenced Morphometric Model corresponding to lamellar organization for assessing hippocampal atrophy in dementia](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.26715)
 
 Research —— Longitudinal axis-Referenced temporal atrophy measurement model: Reducing temporal atrophy measurement errors through smooth deformation modelling.
 ------
